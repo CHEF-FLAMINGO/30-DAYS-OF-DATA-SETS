@@ -1,4 +1,4 @@
-🗓️ 30 DAYS OF DATA SETS
+#🗓️ 30 DAYS OF DATA SETS
 
 This repository documents my 30-day data analysis challenge, where I explore a new dataset each day to improve my skills in data cleaning, analysis, and visualization.
 
@@ -12,7 +12,7 @@ Notes and observations
 
 Screenshots of results
 
-💡 GOAL:
+#**💡 GOAL:**
 To strengthen my understanding of data manipulation, querying, and storytelling using real-world datasets.
 
 🛠️ TOOLS AND TECHNOLOGIES:
