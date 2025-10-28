@@ -1,4 +1,4 @@
-🗓️ 30 Days of Data Sets
+🗓️ 30 DAYS OF DATA SETS
 
 This repository documents my 30-day data analysis challenge, where I explore a new dataset each day to improve my skills in data cleaning, analysis, and visualization.
 
@@ -12,10 +12,10 @@ Notes and observations
 
 Screenshots of results
 
-💡 Goal:
+💡 GOAL:
 To strengthen my understanding of data manipulation, querying, and storytelling using real-world datasets.
 
-🛠️ Tools & Technologies:
+🛠️ TOOLS AND TECHNOLOGIES:
 
 SQL (Azure Data Studio)
 
@@ -23,5 +23,5 @@ Excel / CSV Datasets
 
 Git & GitHub for version control
 
-📅 Day 1 Project:
+📅 DAY 1 PROJECT:
 Earthquake Data (Tsunami Impact Analysis) — A study of earthquake records and their relationships with tsunami occurrences. This analysis includes querying magnitude, depth, yearly trends, and tsunami frequency using SQL.
