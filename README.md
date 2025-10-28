@@ -25,3 +25,30 @@ Git & GitHub for version control
 
 # 📅 DAY 1 PROJECT:
 Earthquake Data (Tsunami Impact Analysis) — A study of earthquake records and their relationships with tsunami occurrences. This analysis includes querying magnitude, depth, yearly trends, and tsunami frequency using SQL.
+
+## 📌 **Overview**
+
+- Uses SQL queries to analyze earthquake data from a **CSV dataset**.
+- Provides insights like:
+  - Highest and lowest earthquake magnitudes recorded.
+  - Locations with the most frequent earthquakes.
+  - Earthquake events that triggered tsunamis.
+  - Average depth and magnitude of earthquakes over time.
+- Aimed at helping users understand global earthquake history and tsunami-related events.
+
+---
+
+## 🗂 **Dataset Description**
+
+The project uses a CSV file containing earthquake data with fields such as:
+
+| Column Name       | Description                                  |
+|-------------------|----------------------------------------------|
+| `date`            | Date and time of the earthquake              |
+| `latitude`        | Latitude of the earthquake epicenter         |
+| `longitude`       | Longitude of the earthquake epicenter        |
+| `magnitude`       | Magnitude of the earthquake (Richter scale) |
+| `depth`           | Depth of the earthquake in kilometers        |
+| `location`        | Place/region where the earthquake occurred   |
+| `tsunami`         | Indicates if a tsunami was triggered (1 = Yes, 0 = No) |
+
