@@ -55,15 +55,16 @@ Here’s a glimpse of the key SQL operations performed:
 
 ---
 
-# 🌎 Summary
+# 🌎 Summary #
 
- This project gave me hands-on experience in:
-✅ Importing and managing data with Azure Data Studio.
-✅ Writing and optimizing SQL queries for data exploration.
-✅ Understanding how earthquake patterns vary across years and regions.
-✅ Observing relationships between magnitude, depth, and tsunami occurrences.
+ ## This project gave me hands-on experience in:
+### ✅ Importing and managing data with Azure Data Studio.
+### ✅ Writing and optimizing SQL queries for data exploration.
+### ✅ Understanding how earthquake patterns vary across years and regions.
+### ✅ Observing relationships between magnitude, depth, and tsunami occurrences.
 
 In short, Day 1 was all about turning raw seismic data into insights that help visualize the story beneath the Earth's surface 🌋✨.
+
 
 
 
