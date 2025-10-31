@@ -1,5 +1,5 @@
-🚢 30 Days of Data Challenge - Day 3: Titanic Survival Analysis
-Project Overview 📝
+# 🚢 30 Days of Data Challenge - Day 3: Titanic Survival Analysis
+## Project Overview 📝
 This project is an Exploratory Data Analysis (EDA) of the historical Titanic passenger manifest, completed as part of the 30-Days of Data Challenge.
 The primary goal was to move beyond simple counts and create an interactive dashboard in Power BI to analyze the demographics and uncover the key statistical factors influencing survival.
 ________________________________________
