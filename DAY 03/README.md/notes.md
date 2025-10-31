@@ -54,9 +54,5 @@ To view and interact with the full analysis:
 2.  Download the **`Titanic_Analysis.pbix`** file from this repository.
 3.  Open the file in Power BI Desktop to explore the full data story.
 
-***
 
-**\[Your Name/Username]** | Status: Day 3 Completed ✅
-* \[Link to your LinkedIn]
-* \[Link to your Portfolio/Blog]
 
